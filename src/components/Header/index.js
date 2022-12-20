@@ -26,9 +26,9 @@ function Header(props) {
                     </NavDropdown> */}
                 </Nav>
                 <Nav>
-                    <Nav.Link href="#aboutme">About Me</Nav.Link>
-                    <Nav.Link href="#portfolio">Portfolio</Nav.Link>
-                    <Nav.Link href="#contact">Contact</Nav.Link>
+                    <Nav.Link href="#AboutMe">About Me</Nav.Link>
+                    <Nav.Link href="#Portfolio">Portfolio</Nav.Link>
+                    <Nav.Link href="#Contact">Contact</Nav.Link>
                     <Nav.Link eventKey={2} href="#Resume">
                     Resume
                     </Nav.Link>

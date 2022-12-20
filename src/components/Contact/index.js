@@ -15,7 +15,7 @@ function Contact(props) {
         <Row>        
             <h1>Contact</h1>
         </Row>
-        <Row id='Portfolio' xs={1} md={2} lg={4} className="g-4">
+        <Row xs={1} md={2} lg={4} className="g-4">
             <Col>
             <div>Email: </div>
             </Col>
